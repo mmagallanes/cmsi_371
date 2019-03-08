@@ -6,7 +6,10 @@
  Collaborators: Chu, Theodore; Alvarez, Marissa; Savini, Sam; Scott, John
  
  
- Project Summary: For this project, I attempted to initially form a cube using 6 planes, by rotating and/or translating from a base plane. Unfortunately, I was unable to figure out why the "cube" and its planes did not align together. I suspect it has something to do with the matrix_multiplication method.
+ Project Summary: For this project, I attempted to initially form a cube using 6 planes, 
+ by rotating and/or translating from a base plane. Unfortunately, 
+ I was unable to figure out why the "cube" and its planes did not align together. 
+ I suspect it has something to do with the matrix_multiplication method.
  ***/
 
 #ifdef __APPLE__
