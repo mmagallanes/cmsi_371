@@ -1,4 +1,4 @@
-# cmsi_371: Computer Graphics - Spring 2018
+# cmsi_371: Computer Graphics
 
 ### [Assignment 1: Cartoonify](https://github.com/mmagallanes/cmsi_371/tree/master/assignment1)
 
