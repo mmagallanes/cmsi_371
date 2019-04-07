@@ -19,5 +19,5 @@ Using C++ in XCode, we were assigned to form a cube using 6 planes, by rotating 
 
 Using C++ in XCode, we were assigned to re-create a scene, with adjusted lighting and colored 3D models. Originallly, I simply added colors to the cube I built in <strong><em>Geometric Modeling of a Scene</em></strong>. Then, I recreated the bedroom (bed, bench at the foot of the bed, table, and monolith) from the film, *2001: A Space Odyssey* with the lighting instead of coming primarily from the floor, coming from the side. 
 
-![](https://github.com/mmagallanes/cmsi_371/blob/master/Shading%20via%20Lighting%20and%20Colors/shading_v1.gif) | ![](https://github.com/mmagallanes/cmsi_371/blob/master/Shading%20via%20Lighting%20and%20Colors/shading_v2.gif)
-| --- | --- | ---
+![Colored Cube](https://github.com/mmagallanes/cmsi_371/blob/master/Shading%20via%20Lighting%20and%20Colors/shading_v1.gif) | ![Final Scene](https://github.com/mmagallanes/cmsi_371/blob/master/Shading%20via%20Lighting%20and%20Colors/shading_v2.gif) | ![Original Scene](https://www.indiewire.com/wp-content/uploads/2017/03/2001-a-space-odyssey-replica-bedroom-iii.jpg?w=780)
+| --- | --- | --- |
