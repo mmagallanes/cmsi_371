@@ -1,25 +1,38 @@
-# cmsi_371: Computer Graphics - Spring 2018
+<h1 align="center">Computer Graphics Projects</h1>
 
-### [Assignment 1: Cartoonify](https://github.com/mmagallanes/cmsi_371/tree/master/assignment1)
+### [Cartoonify](https://github.com/mmagallanes/cmsi_371/tree/master/Cartoonify)
 
-> Using C++ in XCode, we were to take a photo of a person and recreate it to the best of our ability using Bezier curves. 
+Using C++ in XCode, we were to take a photo of a person and recreate it to the best of our ability using Bezier curves. 
 
-### Assignment 2: Geometric Modeling of a Scene
+<div class="row" style="align-items: center">
+  <div class="column">
+    <img src="https://github.com/mmagallanes/cmsi_371/blob/master/Cartoonify/originalFace.png" width="250" height="250">
+  </div>
+  <div class="column">
+    <img src="https://github.com/mmagallanes/cmsi_371/blob/master/Cartoonify/face_v1.png" width="250" height="250">
+  </div>
+  <div class="column">
+    <img src="https://github.com/mmagallanes/cmsi_371/blob/master/Cartoonify/face_final.png" width="250" height="250">
+  </div>
+</div>
 
-> Using C++ in XCode, we were assigned to form a cube using 6 planes, by rotating and/or translating from a base plane. 
+### [Geometric Modeling of a Scene]()
 
-- [Original Assignment 2](https://github.com/mmagallanes/cmsi_371/tree/master/Original%20Assignment%202)
-> On the first submission of the assignment, I was unable to fully form a cube. 
+Using C++ in XCode, we were assigned to form a cube using 6 planes, by rotating and/or translating from a base plane. 
 
-- [Resubmission of Assignment 2]()
-> On the second submission of the assignment, I figured out my mistake in the matrix multiplication function, and now have a fully formed cube.
+<p align="center">
+  <img src="https://github.com/mmagallanes/cmsi_371/blob/master/Geometric%20Modeling%20of%20a%20Scene/geometric_modeling.gif" width="300" height="300">
+</p>
 
-### Assignment 3: Shading via Lighting and Colors
+### [Shading via Lighting and Colors]()
 
-> Using C++ in XCode, we were assigned to re-create a scene, with adjusted lighting and colored 3D models. 
+Using C++ in XCode, we were assigned to re-create a scene, with adjusted lighting and colored 3D models. Originallly, I simply added colors to the cube I built in <strong><em>Geometric Modeling of a Scene</em></strong>. Then, I recreated the bedroom (bed, bench at the foot of the bed, table, and monolith) from the film, *2001: A Space Odyssey* with the lighting instead of coming primarily from the floor, coming from the side. 
 
-- [Original Assignment 3](https://github.com/mmagallanes/cmsi_371/tree/master/Original%20Assignment%203)
-> On the first submission of the assignment, I was only able to figure out how to make a fully formed cube, built off of assignment 2, and several colors to it. 
-
-- [Resubmission of Assignment 3](https://github.com/mmagallanes/cmsi_371/tree/master/Resubmission%20of%20Assignment%203)
-> On the second submission of the assignment, I recreated the bedroom (bed, bench at the foot of the bed, table, and monolith) from the film, *2001: A Space Odyssey* with the lighting instead of coming primarily from the floor, coming from the side. 
+<div class="row" style="align-items: center">
+  <div class="column">
+    <img src="https://github.com/mmagallanes/cmsi_371/blob/master/Shading%20via%20Lighting%20and%20Colors/shading_v1.gif" width="300" height="300">
+  </div>
+  <div class="column">
+    <img src="https://github.com/mmagallanes/cmsi_371/blob/master/Shading%20via%20Lighting%20and%20Colors/shading_v2.gif" width="300" height="300">
+  </div>
+</div>
